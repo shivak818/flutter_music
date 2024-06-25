@@ -16,3 +16,4 @@ Credits
 Flutter SDK: Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 Spotify API: Provides access to Spotify's vast music library and metadata.
 Giphy API: Offers a library of animated GIFs for visual content.
+for login  use email id:meme123@gmail.com password : 123456
